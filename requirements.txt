@@ -1,0 +1,59 @@
+# ---- CORE ----
+ollama
+openai
+requests
+colorama
+pydantic
+python-dotenv
+duckduckgo-search
+pygame
+
+# ---- AI MODELS / EMBEDDINGS ----
+numpy
+scikit-learn
+sentence-transformers>=5.1.2
+
+# ---- IMAGE GENERATION (LOCAL GPU / DIFFUSERS) ----
+diffusers>=0.21.0
+transformers>=4.30.0
+accelerate>=0.20.0
+huggingface-hub
+einops
+safetensors
+scipy
+tqdm
+pyyaml
+packaging
+psutil
+hf_xet
+
+# ---- AUDIO / VOICE ----
+Pillow
+pyttsx3
+sounddevice
+soundfile
+vosk
+pydub
+cffi
+websockets
+srt
+
+# ---- OPTIONAL BUT USEFUL ----
+opencv-python
+
+# ---- CODE TOOLS ----
+jedi
+black
+autopep8
+mypy-extensions
+pathspec
+platformdirs
+
+# ---- UTILITIES ----
+sqlalchemy
+yt-dlp
+regex
+tokenizers
+charset-normalizer
+urllib3
+httpx

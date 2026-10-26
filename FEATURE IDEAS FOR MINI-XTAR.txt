@@ -1,0 +1,8 @@
+FEATURE IDEAS FOR MINI-XTAR:
+- Web and Internet searching for information. (Gemini/Google level searching) ✅
+- Image generation. ✅
+- Code generation.
+- Being able to scan and see what's on screen, so he can help on suggesting and stuff.
+- Make it search for music by name and play them by itself via audio. Same with YouTube videos, make him open a small display to watch videos from. The user could also provide a link in the chat and the AI just opens it up.
+- Games? Add like 3 fun and time wasting games that you can play with the AI.
+- File editing.

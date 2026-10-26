@@ -1,0 +1,27 @@
+IMAGES IDEAS TO ADD:
+- Custom X Button. ✅
+- YouTube/Display Button (opens a new window to watch a video). ✅
+- Small Options Button (Has it's own window). ✅
+- Web Browsing Button (Has it's own chat). ✅
+- Image Generation Button (Has it's own chat). ✅
+- Microphone Button. ✅
+- Gaming Button. ✅
+>>> Total: 7 images. ✅
+
+ANIMATION IDEAS TO ADD:
+- Intro Animations (Mini saying hi, saying sup, and scratching his back and turn back at you).
+- Searching the Web Animation (Mini warping with his hands on a globe).
+- Listening to Music Animation (Mini with headphones and jamming). ✅
+- Watching YouTube Animation (Mini on the corner sitting down, his back towards the camera, and a big screen in front of him).
+- Drawing/Painting Animation (Mini with painting tools and a board). ✅
+- Gaming Animation (Mini with a console (Plus a win and lose animations)).
+- Writing Animation (Mini holding a paper and pencil and writing on it).
+- Ouch Animations (Mini being thrown in all 4 sides and have 4 sides animation, and in the end a small "patting my head" animation (so 5 animations)).
+>>> Total: 16 animations.
+
+SOUND EFFECTS IDEAS TO ADD:
+- 3 Sounds for the intro. ✅
+- Grabbing/Ungrabbing sound. ✅
+- 4 Sounds of wall smashing. ✅
+- Button sounds. ✅
+>>> Total: 10 sounds. ✅
